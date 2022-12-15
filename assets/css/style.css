@@ -57,7 +57,7 @@ a {
 p {
     font-size: 18px;
 }
-
+/* main image of website */
 .hero {
     height: 800px;
     width: 100%;
@@ -66,23 +66,24 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* seo floating left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* orm floating right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* smm floating left */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* benefits box styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -94,23 +95,26 @@ p {
     background-color: #0072bb;
 }
 
+/* benefit text styling */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* benefits titles styling */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
+/* benefits images styling */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* main sections' styling */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,22 +124,24 @@ h3 {
     color: #ffffff;
 }
 
+/* image height for main sections */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
+/* main section titles' styling */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer styling */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* footer font size */
 h4 {
     font-size: 20px;
 }
